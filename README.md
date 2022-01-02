@@ -5,7 +5,7 @@
 Current interests - Web 3.0, React with Typescript.
 
 Deployed project links : 
-  https://api-ax-98.web.app/ 
-  https://logs-tawny.vercel.app/
-  https://know-more-about-me.vercel.app/
+  - https://api-ax-98.web.app/ 
+  - https://logs-tawny.vercel.app/
+  - https://know-more-about-me.vercel.app/
   
