@@ -12,3 +12,5 @@ Deployed project links :
   - https://logs-tawny.vercel.app/
   - https://know-more-about-me.vercel.app/
   
+VS Code extension: Kappu Dark Theme
+ 
