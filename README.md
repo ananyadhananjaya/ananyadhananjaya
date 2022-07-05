@@ -13,4 +13,5 @@ Deployed project links :
   - https://know-more-about-me.vercel.app/
   
 VS Code extension: Kappu Dark Theme
+ - https://marketplace.visualstudio.com/items?itemName=AnanyaDhananjaya.kappu-theme
  
