@@ -11,6 +11,7 @@ Deployed project links :
   - https://api-ax-98.web.app/ 
   - https://logs-tawny.vercel.app/
   - https://know-more-about-me.vercel.app/
+  - https://ax-pomodora.netlify.app/
   
 VS Code extension: Kappu Dark Theme
  - https://marketplace.visualstudio.com/items?itemName=AnanyaDhananjaya.kappu-theme
