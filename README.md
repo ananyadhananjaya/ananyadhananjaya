@@ -4,6 +4,8 @@
 
 Current interests - React with Typescript.
 
+![Visitor Count](https://profile-counter.glitch.me/ananyadhananjaya/count.svg)
+
 ### Portfolio:
 https://ananya-dhananjaya-git-main-ananyadhananjaya.vercel.app/
 
