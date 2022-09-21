@@ -26,3 +26,6 @@ https://ananya-dhananjaya-git-main-ananyadhananjaya.vercel.app/
  - https://www.npmjs.com/package/@ananyadhananjaya/prettier-config
  - https://www.npmjs.com/package/@ananyadhananjaya/eslint-config-basic
  
+### 🧰Toolkit
+
+![image]({"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"})
