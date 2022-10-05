@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m ananyadhananjaya. Nice to meet you. It's been a good whole year being a Web Developer. I keep learning, relearning and unlearing.. Love the web vibe, for now. 
+👋 Hi, I’m ananyadhananjaya. Nice to meet you. It's been a while being a Web Developer. I keep learning, relearning and unlearing.. Love the web vibe, for now. 
 
 Current interests - React with Typescript.
 
