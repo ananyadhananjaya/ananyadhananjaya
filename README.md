@@ -4,7 +4,7 @@
 
 Current interests - React with Typescript.
 
-![](https://komarev.com/ghpvc/?username=ananyadhananjaya)
+<!-- ![](https://komarev.com/ghpvc/?username=ananyadhananjaya) -->
 
 ### Portfolio:
 https://ananya-dhananjaya-git-main-ananyadhananjaya.vercel.app/
