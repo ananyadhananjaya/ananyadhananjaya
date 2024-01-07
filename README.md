@@ -1,30 +1,16 @@
 
 
-👋 Hi, I’m ananyadhananjaya. Nice to meet you. It's been a while being a Web Developer. I keep learning, relearning and unlearing.. Love the web vibe, for now. 
+👋 Hi, I’m ananyadhananjaya. Nice to meet you. 
 
-Current interests - React with Typescript.
-
-<!-- ![](https://komarev.com/ghpvc/?username=ananyadhananjaya) -->
+Current interests - Frontend with React & Vue.
 
 ### Check out
 [Portfolio](https://ananyadhananjaya.vercel.app/)
 
-### Deployed project links: 
-  - https://ananyadhananjaya.github.io/portfoioAX/
-  - https://api-ax-98.web.app/ 
-  - https://logs-tawny.vercel.app/
-  - https://know-more-about-me.vercel.app/
-### Deployed projects that I'm proud of:
-  - https://ax-pomodora.netlify.app/
-  - https://onehit.netlify.app/
-  
+I have some not so great projects up w either vercel or netlify. Nothing awesome to brag here.
+
 ### VS Code extension: Kappu Dark Theme
- - https://marketplace.visualstudio.com/items?itemName=AnanyaDhananjaya.kappu-theme
- 
- ### NPM Packages:
- 
- - https://www.npmjs.com/package/@ananyadhananjaya/prettier-config
- - https://www.npmjs.com/package/@ananyadhananjaya/eslint-config-basic
+ - https://marketplace.visualstudio.com/items?itemName=AnanyaDhananjaya.kappu-theme (which I myself don't use haha)
  
 ### 🧰Toolkit
 
